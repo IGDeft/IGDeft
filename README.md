@@ -1,24 +1,10 @@
 # Olá! Eu sou Lucas Reis 👋
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas na **UNIFACS**
-📊 Focado em **Análise de Dados** e **Business Intelligence**
-
-<p>
-  <a href="https://www.linkedin.com/in/lucas-reis-amado/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:lucastheshy@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
----
-
 ## 👨‍💻 Sobre mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** na **UNIFACS**, direcionando minha formação para a área de **Análise de Dados**.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** na **UNIFACS**, com foco em **Análise de Dados**.
 
-Atualmente estudo **Python, PostgreSQL e Power BI**, desenvolvendo projetos baseados em cenários reais de negócio. Meu objetivo é transformar dados em informações úteis para apoiar a tomada de decisão por meio de análises, consultas SQL, visualizações e dashboards.
+Atualmente desenvolvo projetos utilizando Python, PostgreSQL e Power BI para transformar dados em informações que apoiem decisões de negócio.
 
 ---
 
@@ -33,19 +19,9 @@ Atualmente estudo **Python, PostgreSQL e Power BI**, desenvolvendo projetos base
 
 ---
 
-## 📚 Atualmente estudando
-
-* Python para análise de dados
-* PostgreSQL
-* Power BI
-* Estatística aplicada à análise de dados
-* Boas práticas de análise e comunicação de resultados
-
----
-
 ## 📂 Projetos em destaque
 
-### 📦 Análise Estratégica de Logística — Olist
+### 📦 Análise Estratégica de Logística | Olist
 
 Análise exploratória utilizando **Python** para investigar como o custo do frete pode impactar as vendas da plataforma em diferentes regiões do Brasil.
 
@@ -60,7 +36,7 @@ Análise exploratória utilizando **Python** para investigar como o custo do fre
 
 ---
 
-### 📈 Performance Comercial — Superstore
+### 📈 Performance Comercial | Superstore
 
 Análise de uma base comercial utilizando **PostgreSQL** para responder perguntas de negócio por meio de consultas SQL, agregações, CTEs e funções analíticas.
 
@@ -79,14 +55,6 @@ Análise de uma base comercial utilizando **PostgreSQL** para responder pergunta
 * Construir projetos voltados para problemas reais de negócio.
 * Evoluir continuamente em Python, SQL e Business Intelligence.
 * Aprimorar a capacidade de transformar dados em insights para apoiar decisões de negócio.
-
----
-
-## 📊 GitHub Stats
-
-<p>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=IGDeft&show_icons=true&hide_border=true&rank_icon=github"/>
-</p>
 
 ---
 
